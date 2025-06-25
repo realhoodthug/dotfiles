@@ -19,27 +19,19 @@
 
 </div>
 
-## Introduction
-
-Welcome to a unique window management experience that combines the power of AwesomeWM with the elegance of MacOS! This custom setup transforms AwesomeWM into a sleek, MacOS-inspired desktop environment while preserving the extensive customization and efficiency that AwesomeWM users know and love. By blending familiar MacOS elements—such as a dock, top bar, and smooth animations—with the flexibility of a tiling window manager, this configuration delivers a refined yet powerful user experience.
-
-The desktop setup includes a variety of widgets designed to resemble MacOS features, such as a control center for quick access to system controls, a notifications area, and interactive app icons. The dock behaves intuitively, offering smooth animations and shortcuts to your favorite applications, while the top bar displays useful information in a clean, polished layout. This MacOS-style interface allows you to enjoy the aesthetic appeal of Apple’s design while retaining AwesomeWM’s lightweight and customizable core.
-
-Whether you are a fan of MacOS aesthetics or simply looking for a fresh take on your Linux desktop, this AwesomeWM configuration provides a stylish, responsive, and efficient environment that is as functional as it is beautiful.
-
 ## Features
 
-- **MacOS-style Dock**: A customizable dock with smooth animations for quick app launching.
+- **MacOS Dock**: 
 
-- **Top Bar**: A clean, informative top bar displaying system status and quick access to controls.
+- **Top Bar**:
+ 
+- **Interactive Widgets**:
 
-- **Interactive Widgets**: The popup widgets are really cool, they automatically dim when an application is open
+- **Control center**: 
 
-- **Control center**: A MacOS-inspired control center providing quick access to essential system controls like brightness, volume, and Wi-Fi. Designed to open with a smooth animation, it enables you to make adjustments seamlessly without leaving your workspace.
+- **Notificenter**:
 
-- **Notificenter**: A dedicated area for managing notifications, styled to resemble the MacOS notification center. It allows you to view recent notifications in an organized manner, keeping you informed without distraction.
-
-- **Animations**: Subtle animations to enhance the visual appeal and responsiveness.
+- **Animations**: 
 
 ## Requirements
 
